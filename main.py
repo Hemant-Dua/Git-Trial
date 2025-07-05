@@ -1,1 +1,1 @@
-print("Had to make a change sorry")
+print("Sorry for inconvenience")
