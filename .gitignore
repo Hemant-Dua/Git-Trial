@@ -1,0 +1,19 @@
+# Bytecode & caches
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+
+# Logs
+*.log
+
+# Api Keys
+*imp.md
