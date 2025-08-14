@@ -1,1 +1,1 @@
-print("Sorry for inconvenience")
+print("Hello from wsl")
